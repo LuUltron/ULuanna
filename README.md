@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ULuanna
+- 👋 Hi, I’m @lultron
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, C and C++
+- 🌱 I’m currently learning C/C++, Golang, python
 - 💞️ I’m looking to collaborate on anybody who have the same interests
 - 📫 How to reach me ...
 
