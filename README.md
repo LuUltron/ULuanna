@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uluanna
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C, Golang, python
+- 👀 I’m interested in Python, Golang, C/C++ programming 
+- 🌱 I’m currently learning telegram-bot development with Python, Aiogram, Docker, PostgreSQL
 - 💞️ I’m looking to collaborate on anybody who have the same interests
 - 📫 My email to reach me ddgithub@mail.ru
 
