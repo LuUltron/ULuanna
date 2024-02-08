@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uluanna
+- 👋 Hi, I’m @lultron
 - 👀 I’m interested in Python, Golang, C/C++ programming 
 - 🌱 I’m currently learning telegram-bot development using Python, Aiogram, Docker, PostgreSQL
 - 💞️ I’m looking to collaborate on anybody who have the same interests
